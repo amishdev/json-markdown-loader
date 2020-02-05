@@ -1,0 +1,22 @@
+{
+  "name": "json-markdown-loader",
+  "version": "1.0.0",
+  "description": "A webpack loader that will parse markdown within JSON",
+  "main": "index.js",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/amishdev/json-markdown-loader.git"
+  },
+  "keywords": [
+    "webpack-loader"
+  ],
+  "author": "Christian <christianpavilonis@outlook.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/amishdev/json-markdown-loader/issues"
+  },
+  "homepage": "https://github.com/amishdev/json-markdown-loader#readme",
+  "dependencies": {
+    "marked": "^0.8.0"
+  }
+}
